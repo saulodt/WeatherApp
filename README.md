@@ -9,3 +9,13 @@
 ![javascript][JAVASCRIPT__BADGE]
 ![html][HTML__BADGE]
 ![css][CSS__BADGE]
+
+<p align="center">
+    <img src="./.github/tela-inicial.png" alt="Page Layout" width="800px">
+</p>
+<p align="center">
+    <img src="./.github/resultado-de-busca.png" alt="Search Result" width="800px">
+</p>
+<p align="center">
+    <img src="./.github/exemplo-de-erro.png" alt="Error Example" width="800px">
+</p>
